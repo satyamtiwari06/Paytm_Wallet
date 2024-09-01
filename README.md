@@ -4,25 +4,25 @@
 <ul>
 <li><h2>🌟 Features</h2></li>
     <ul>
-<li><h3>🔒 Secure Authentication: Hassle-free registration and login with JWT-based security.</h3></li>
-<li><h3>💸 On-Ramp Transactions: Easily fund your wallet from external sources like bank accounts or credit cards.</h3></li>
-<li><h3>🤝 Person-to-Person Transfers: Instant money transfers between users within the app.</h3></li>
-<li><h3>📊 Transaction History: View a detailed history of your wallet transactions at any time.</h3></li>
-<li><h3>⚡ Real-Time Balance: Stay updated with your balance in real-time after every transaction.</h3></li>
-<li><h3>📱 Responsive Design: Optimized for all devices — from desktops to mobile screens.</h3></li>
+<li><h5>🔒 Secure Authentication: Hassle-free registration and login with JWT-based security.</h5></li>
+<li><h5>💸 On-Ramp Transactions: Easily fund your wallet from external sources like bank accounts or credit cards.</h5></li>
+<li><h5>🤝 Person-to-Person Transfers: Instant money transfers between users within the app.</h5></li>
+<li><h5>📊 Transaction History: View a detailed history of your wallet transactions at any time.</h5></li>
+<li><h5>⚡ Real-Time Balance: Stay updated with your balance in real-time after every transaction.</h5></li>
+<li><h5>📱 Responsive Design: Optimized for all devices — from desktops to mobile screens.</h5></li>
     </ul>
 <li><h2>🛠️ Tech Stack</h2></li>
     <ul>
-<li><h3>Frontend: Next.js, React, Tailwind CSS</h3></li>
-<li><h3>Backend: Node.js, Express.js</h3></li>
-<li><h3>Database: PostgressSQL</h3></li>
-<li><h3>Authentication: JWT (JSON Web Tokens)</h3></li>
+<li><h5>Frontend: Next.js, React, Tailwind CSS</h5></li>
+<li><h5>Backend: Node.js, Express.js</h5></li>
+<li><h5>Database: PostgressSQL</h5></li>
+<li><h5>Authentication: JWT (JSON Web Tokens)</h5></li>
     </ul>
 </ul>
+<h2>🚀 Getting Started</h2><br />
 - Clone the repo
-
 ```jsx
-
+ git clone https://github.com/satyamtiwari06/Paytm_Wallet.git
 ```
 
 - npm install
