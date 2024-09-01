@@ -24,7 +24,7 @@
 
 
 ```jsx
-git clone 
+git clone https://github.com/satyamtiwari06/Paytm_Wallet.git
 ```
 
 - npm install
