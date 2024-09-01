@@ -21,8 +21,10 @@
 </ul>
 <h2>🚀 Getting Started</h2><br />
 - Clone the repo
+
+
 ```jsx
- git clone https://github.com/satyamtiwari06/Paytm_Wallet.git
+git clone 
 ```
 
 - npm install
